@@ -1,3 +1,4 @@
+// sorry, I'll send the video tomorrow and the Probability table will be displayed immediately.
 // Required modules
 const crypto = require("crypto");
 const readline = require("readline");
