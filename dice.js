@@ -274,4 +274,7 @@ function exitGame() {
   rl.close();
 }
 
-
+// Start the game
+console.log("Welcome to the game!");
+printHelp();
+askForGuess();
